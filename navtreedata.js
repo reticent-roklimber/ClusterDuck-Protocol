@@ -25,13 +25,11 @@
 var NAVTREE =
 [
   [ "ClusterDuck Protocol", "index.html", [
-    [ "ClusterDuck Protocol Info", "index.html", [
-      [ "About", "index.html#autotoc_md1", null ],
-      [ "Origin Story", "index.html#autotoc_md2", null ],
-      [ "How It Works", "index.html#autotoc_md3", null ],
-      [ "Getting Started", "index.html#autotoc_md4", null ],
-      [ "How to Contribute", "index.html#autotoc_md5", null ],
-      [ "Join the Conversation", "index.html#autotoc_md6", null ]
+    [ "ClusterDuck Protocol Info", "index.html", "index" ],
+    [ "Adding Your Own Board", "md__2home_2runner_2work_2_cluster_duck-_protocol_2_cluster_duck-_protocol_2src_2include_2boards_2_r_e_a_d_m_e.html", [
+      [ "Board Format", "md__2home_2runner_2work_2_cluster_duck-_protocol_2_cluster_duck-_protocol_2src_2include_2boards_2_r_e_a_d_m_e.html#autotoc_md1", null ],
+      [ "Defining the Pins", "md__2home_2runner_2work_2_cluster_duck-_protocol_2_cluster_duck-_protocol_2src_2include_2boards_2_r_e_a_d_m_e.html#autotoc_md2", null ],
+      [ "Adding the Board Header", "md__2home_2runner_2work_2_cluster_duck-_protocol_2_cluster_duck-_protocol_2src_2include_2boards_2_r_e_a_d_m_e.html#autotoc_md3", null ]
     ] ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
@@ -48,7 +46,7 @@ var NAVTREE =
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ],
         [ "Variables", "functions_vars.html", null ],
-        [ "Related Functions", "functions_rela.html", null ]
+        [ "Related Symbols", "functions_rela.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -67,7 +65,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_duck_8cpp.html",
-"heltec__cubecell__board_8h_source.html"
+"index.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
